@@ -1,10 +1,11 @@
-#meter el disco
-#iniciar sesion como root
-#montar el disco
+# Insert Guest Additions CD
+# Logged in as root
+# Mount cd:
 mount /dev/cdrom /media/cdrom
 cd /media/cdrom
-./VBoxLinuxAdditions.run
-reboot
+/media/cdrom/VBoxLinuxAdditions.run
 
+# Reboot
+reboot
 
 #c4lc1f3r22
