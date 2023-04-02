@@ -7,5 +7,3 @@ cd /media/cdrom
 
 # Reboot
 reboot
-
-#c4lc1f3r22
